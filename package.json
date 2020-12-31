@@ -1,0 +1,22 @@
+{
+  "name": "electronjs-ocr",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^11.1.0"
+  },
+  "dependencies": {
+    "bootstrap": "^4.5.3",
+    "electron-squirrel-startup": "^1.0.0",
+    "node-tesseract-ocr": "^2.0.0",
+    "tesseract-ocr": "^1.0.0"
+  },
+  "config": {
+  }
+}
